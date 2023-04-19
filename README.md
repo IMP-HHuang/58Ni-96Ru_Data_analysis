@@ -33,4 +33,4 @@
   - 3. 衰变分析
      - [Hao Huang](./ana/README.md)
      - Xinghan Yu
-     - Xiangyu Fu
+     - [Xiangyu Fu](https://github.com/fuyu1275370927/rootwork_Fu)
