@@ -31,6 +31,6 @@
         - EventWindow ： 事件重构时间窗
      - parx.txt pary.txt 为DSSD刻度参数，目前存在问题，建议直接采用北航刻度结果或重新刻度
   - 3. 衰变分析
-     - [Hao Huang](./ana/ana.md)
+     - [Hao Huang](./ana/README.md)
      - Xinghan Yu
      - Xiangyu Fu
