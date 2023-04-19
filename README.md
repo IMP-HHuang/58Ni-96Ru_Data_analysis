@@ -11,4 +11,4 @@
          - [刻度及触发参数文件 conf](./Decode/Grain/conf)
       - 利用基于ROOT的C++代码将txt文件转成root文件
         - [code](./Decode/C++) 
-        - 输出文件
+        - 输出文件位于核结构服务器/home/share_data/58Ni96Ru/root/目录（注意请勿删除或修改此文件，另外此文件较大且服务器存储空间有限请勿将其拷贝到别的目录）
