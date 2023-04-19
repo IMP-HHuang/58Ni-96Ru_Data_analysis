@@ -1,4 +1,6 @@
 # Ana
 
-## 带点粒子谱
+## 带电粒子衰变谱
+
+<img src="../fig/ChargedParticleDecay.png" width="80%" height="80%">
 
