@@ -1,4 +1,4 @@
-# 58Ni-96Ru_Data_analysis
+# $^{58}$Ni-$^{96}$Ru_Data_analysis
 
 
 ## 原始数据
