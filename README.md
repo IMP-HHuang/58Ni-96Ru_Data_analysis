@@ -10,5 +10,5 @@
          - [code](./Decode/Grain/code)
          - [刻度及触发参数文件 conf](./Decode/Grain/conf)
       - 利用基于ROOT的C++代码将txt文件转成root文件
-        - 将输出的txt文件转成rootwenjian
         - [code](./Decode/C++) 
+        - 输出文件
