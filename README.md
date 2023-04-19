@@ -2,7 +2,9 @@
 
 ## 1.Setup
 
-## 2.代码分析流程数据
+## 2. Products
+
+## 3.代码分析流程数据
 
   - 1. Decode
       - 利用[Grain](https://github.com/IMP-HHuang/Grain)将数据Decode成txt文件（由于文件较大，已被删除）
