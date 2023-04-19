@@ -2,7 +2,7 @@
 
 ## 1.Setup
 
-<img src="./fig/Setup.png" width="80%" height="80%">
+<img src="./fig/Setup.png" width="90%" height="90%">
 
 ## 2. Products
 
