@@ -2,6 +2,8 @@
 
 ## 1.Setup
 
+<img src="./fig/Setup.png" width="80%" height="80%">
+
 ## 2. Products
 
    <img src="./fig/Products.png" width="80%" height="80%">
